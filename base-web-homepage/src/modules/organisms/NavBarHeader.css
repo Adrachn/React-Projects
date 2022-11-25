@@ -1,0 +1,15 @@
+
+/*a, a:hover, a:active, a:visited, a:focus {
+    text-decoration:none;
+}
+
+.links links:a {
+    color: "pink";
+    text-decoration: none;
+}*/
+
+.boldPink {
+    color: "pink";
+    background-color: 'blue';
+    font-size: 48;
+}
